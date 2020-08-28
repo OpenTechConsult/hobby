@@ -1,0 +1,31 @@
+{
+  "name": "hobby",
+  "version": "1.0.0",
+  "description": "Just a Node.js/MongoDB tuto that I am following on Medium, just for fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/hobby.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Mongo",
+    "REST",
+    "web",
+    "dev"
+  ],
+  "author": "OpenTechConsult",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/hobby/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/hobby#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
